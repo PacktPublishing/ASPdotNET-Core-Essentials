@@ -1,4 +1,4 @@
-# Big-Data-Analytics-with-R
+# ASP.Net Core Essentials
 
 By Packt
 
