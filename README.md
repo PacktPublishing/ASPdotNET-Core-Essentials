@@ -1,10 +1,10 @@
-# ASP.Net Core Essentials
+# ASP.NET Core Essentials
 
 By Packt
 
 
 
-This is the code repository for [ASP.Net Core Essentials](https://www.packtpub.com/web-development/aspnet-core-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781785889158). It contains all the required files to run the code.
+This is the code repository for [ASP.NET Core Essentials](https://www.packtpub.com/web-development/aspnet-core-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781785889158). It contains all the required files to run the code.
 
 
 
