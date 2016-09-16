@@ -1,0 +1,5 @@
+[Route("api/[controller]")]
+public class PatientController : Controller
+{
+	// ...
+}
